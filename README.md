@@ -9,7 +9,7 @@
 </p>
 
 ### Citation
-Ryo Okuwaki. (2020, November 1). rokuwaki/2020Greece: Preliminary tele-seismic finite-fault models of the 2020 Greece earthquake (Version v1). Zenodo. http://doi.org/10.5281/zenodo.4171765
+Ryo Okuwaki. (2020, November 1). rokuwaki/2020Greece: Preliminary tele-seismic finite-fault models of the 2020 Greece earthquake (Version v2). Zenodo. http://doi.org/10.5281/zenodo.4175289
 
 ### Updates
 - Models of `201102074654` and `201102060005` are the most updated ones.
