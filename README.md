@@ -3,6 +3,11 @@
 - Preliminary tele-seismic finite-fault models of the 2020-10-30 Greece earthquake
 - This work, authored by [Ryo Okuwaki](https://www.geol.tsukuba.ac.jp/~rokuwaki/), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
 
+<p float="left">
+<img src="./fig/summary_201102060005.png" alt="" width="30%"/>
+<img src="./fig/summary_201102074654.png" alt="" width="30%"/>
+</p>
+
 ### Citation
 Ryo Okuwaki. (2020, November 1). rokuwaki/2020Greece: Preliminary tele-seismic finite-fault models of the 2020 Greece earthquake (Version v1). Zenodo. http://doi.org/10.5281/zenodo.4171765
 
