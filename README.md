@@ -5,3 +5,6 @@
 
 ### Citation
 Okuwaki, R. (2020). Preliminary tele-seismic finite-fault models of the 2020 Greece earthquake, doi: 10.5281/zenodo.4165550
+
+### Updated
+- Models of `201101083241` and `201101075231` are the most updated ones.
