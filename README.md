@@ -18,3 +18,6 @@ Ryo Okuwaki. (2020, November 1). rokuwaki/2020Greece: Preliminary tele-seismic f
 - [FSP-formatted](http://equake-rc.info/SRCMOD/fileformats/fsp/) files for the static slip distribution are available.
   - [s2020GREECE01OKUW_201102060005.fsp](./s2020GREECE01OKUW_201102060005.fsp)
   - [s2020GREECE01OKUW_201102074654.fsp](./s2020GREECE01OKUW_201102074654.fsp)
+- Okada-style formatted model parameters.
+  - [s2020GREECE01OKUW_201102060005_O.csv](./s2020GREECE01OKUW_201102060005_O.csv)
+  - [s2020GREECE01OKUW_201102074654_O.csv](./s2020GREECE01OKUW_201102074654_O.csv)
