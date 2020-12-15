@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/308870056.svg)](https://zenodo.org/badge/latestdoi/308870056)
 # 2020Greece
 - Preliminary tele-seismic finite-fault models of the 2020-10-30 Greece earthquake
 - This work, authored by [Ryo Okuwaki](https://www.geol.tsukuba.ac.jp/~rokuwaki/), is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
@@ -9,7 +8,8 @@
 </p>
 
 ### Citation
-Ryo Okuwaki. (2020, November 1). rokuwaki/2020Greece: Preliminary tele-seismic finite-fault models of the 2020 Greece earthquake (Version v2). Zenodo. [![DOI](https://zenodo.org/badge/308870056.svg)](https://zenodo.org/badge/latestdoi/308870056)
+Ryo Okuwaki. (2020). rokuwaki/2020Greece: Preliminary tele-seismic finite-fault models of the 2020 Greece earthquake. Zenodo.   
+[![DOI](https://zenodo.org/badge/308870056.svg)](https://zenodo.org/badge/latestdoi/308870056)
 
 ### Updates
 - Models of `201102074654` and `201102060005` are the most updated ones.
